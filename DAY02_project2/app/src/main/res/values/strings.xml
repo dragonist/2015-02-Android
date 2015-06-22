@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAY02_project2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pro_add_form">pro_add_form</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_show">ShowActivity</string>
+</resources>
